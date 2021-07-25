@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aeiou.space</id>
     <title>AEIOU</title>
-    <updated>2021-07-24T14:18:32.169Z</updated>
+    <updated>2021-07-25T05:46:35.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aeiou.space"/>
     <link rel="self" href="https://aeiou.space/atom.xml"/>
@@ -10,6 +10,86 @@
     <logo>https://aeiou.space/images/avatar.png</logo>
     <icon>https://aeiou.space/favicon.ico</icon>
     <rights>All rights reserved 2021, AEIOU</rights>
+    <entry>
+        <title type="html"><![CDATA[你看一晃两三年，匆匆又夏天]]></title>
+        <id>https://aeiou.space/post/ni-kan-yi-huang-liang-san-nian-cong-cong-you-xia-tian/</id>
+        <link href="https://aeiou.space/post/ni-kan-yi-huang-liang-san-nian-cong-cong-you-xia-tian/">
+        </link>
+        <updated>2021-07-25T05:43:28.000Z</updated>
+        <content type="html"><![CDATA[<p>每个人的心里都有一片属于自己的森林，迷失的人迷失了，相遇的人会再相遇。——<em>村上春树《挪威的森林》</em></p>
+<p>我喜欢落日	因为它像极了我喜欢你的心	就算会一点一点沉下去	明天照样会升起</p>
+<p>我天生不合群。一向话少，时而冷场。有过被孤立，有过被诟病。有过自我质疑，也有到过崩坏的边缘。合也无味，孤也无味。党同伐异，这是人性。最终决意做个哑巴。少戾气，不言语，从心过活。亚里士多德说“离群索居者，不是野兽，便是神灵。</p>
+<p>只希望你和我好，互不猜忌，也互不称誉，安如平日，你和我说话像对自己说话一样，我和你说话也像对自己说话一样。  ——<em>王小波《爱你就像爱生命》</em></p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/07/25/jBT4wOyXbICvpuY.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用高等数学解释苍蝇为什么难打?]]></title>
+        <id>https://aeiou.space/post/yong-gao-deng-shu-xue-jie-shi-cang-ying-wei-shi-me-nan-da/</id>
+        <link href="https://aeiou.space/post/yong-gao-deng-shu-xue-jie-shi-cang-ying-wei-shi-me-nan-da/">
+        </link>
+        <updated>2021-07-25T05:26:38.000Z</updated>
+        <content type="html"><![CDATA[<p>夏天在外边吃饭的时候，苍蝇经常会不请自来。打苍蝇是件技术活，因为苍蝇的飞行轨迹十分诡异，人类只靠双手很难找到准头。</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/07/25/sKYBVbR2JTgAGzS.gif" alt="图片" loading="lazy"></figure>
+<p>所以问题来了，苍蝇为什么会乱飞呢？</p>
+<p>你可能不知道，苍蝇这样乱飞，实际上应用了一种强大的数学原理，这个原理让它们的飞行轨迹难以捉摸，从而避免被打中。</p>
+<p>而这种数学原理，就叫做<strong>莱维飞行</strong>（Lévy flight）。莱维飞行的路线图是这样的——</p>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2021/07/25/BzkoWfUj4v9g6Zr.png" alt="图片" loading="lazy"></figure>
+<center>图片来源：wikipedia</center>
+<p>莱维飞行是一种分形，也就是说不管放大多少倍，看起来还和原来的图案类似的图形。更重要的是，莱维飞行属于随机游走，也就是说它的轨迹并不能被准确预测，就和苍蝇的步伐一样鬼魅。</p>
+<p>很显然，莱维飞行可以帮助苍蝇躲避掠食者还有想要敲扁它们小头的人类。2008年，东京大学的生物学家 Masakazu Shimada 的团队发现，家蝇（Musca domestica）的飞行线路就属于莱维飞行。</p>
+<p>不仅是家蝇，家里常见的果蝇也是莱维飞行家。比如，黑腹果蝇（Drosophila melanogaster）飞行的时候常常是直线飞行夹杂飞速90度大转弯。它们的飞行轨迹就是妥妥的莱维飞行图——</p>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2021/07/25/wp9NtXiZW5fMcTJ.jpg" alt="图片" loading="lazy"></figure>
+<center>黑腹果蝇的莱维飞行。图片来源：(doi) 10.1371/journal.pone.0000354</center>
+<br>
+咱们在中学时学过，一些微小的粒子会有布朗运动。
+<figure data-type="image" tabindex="4"><img src="https://i.loli.net/2021/07/25/vUGHFYP3EVzyLai.gif" alt="图片" loading="lazy"></figure>
+<center>布朗运动 图片来源：wikipedia</center>
+<p>虽然布朗运动也属于随机游走，不过，莱维飞行和布朗运动不同。</p>
+<p>布朗运动有个特点，那就是每步的步长集中在一个区域内，画成图就是钟形曲线——</p>
+<figure data-type="image" tabindex="5"><img src="https://i.loli.net/2021/07/25/JNnECP6rfX4wV5o.jpg" alt="图片" loading="lazy"></figure>
+<p>莱维飞行就不是这样了。大家应该在中学学过幂函数吧。莱维飞行图中，每步行走的距离就符合幂定律。也就是说，运动中大多数的步子很短，但有少部分步子很长。</p>
+<figure data-type="image" tabindex="6"><img src="https://i.loli.net/2021/07/25/zw3ah6LfJSuY4F1.jpg" alt="图片" loading="lazy"></figure>
+<center>莱维飞行的步长是幂函数</center>
+<p>你可能想问，哦，莱维飞行和布朗运动有差别，可这有什么用呢？</p>
+<p>莱维飞行和布朗运动的步长的不同性质，就直接导致了莱维飞行比布朗运动更有效率。走了相同的步数或路程的情况下，莱维飞行位移比布朗运动要大得多，能探索更大的空间。</p>
+<figure data-type="image" tabindex="7"><img src="https://i.loli.net/2021/07/25/TJeFHgLKV3tdzxG.jpg" alt="图片" loading="lazy"></figure>
+<center>布朗运动（左）和莱维飞行（右）的效率对比。显然，莱维飞行用更少的距离和步数覆盖了更大的面积，这对于探索未知而言很有用。图片来源：(DOI)10.1038/nature04292</center>
+<br>
+这一点对于需要在未知领域打野的生物来说至关重要。果不其然，发现莱维飞行的法国数学家、大佬本华·曼德博（Benoît B. Mandelbrot）的导师保罗·皮埃尔·莱维（Paul Pierre Lévy）最早发现，**生命的许多随机运动都属于莱维飞行**，而不是分子那样的布朗运动。
+<p>举个例子，鲨鱼等海洋掠食者在知道附近有食物的情况下，采用的是布朗运动，因为布朗运动有助于“光盘”——打开和清空一小片区域内的隐藏食物。但是<strong>当食物不足，需要开拓新地盘时，海洋掠食者就会放弃布朗运动，转而采取莱维飞行的策略。</strong></p>
+<p>2008年，一个来自英国和美国的研究团队在 <em>Nature</em> 上发表了一项研究，他们给大西洋和太平洋的55只不同海洋掠食者（包括丝鲨、剑鱼、蓝枪鱼、黄鳍金枪鱼、海龟和企鹅）带上了追踪器，跟踪观察它们在5700天里的运动轨迹。<br>
+<img src="https://i.loli.net/2021/07/25/x2U17IfLAKmiFHE.gif" alt="图片" loading="lazy"></p>
+<p>在分析了1200万次它们的动作后，这些研究者发现了大多数海洋掠食者在食物匮乏时对莱维式运动的偏好。更有趣的是，猎物，比如磷虾的分布也符合莱维飞行的特征。</p>
+<p>不仅如此，土壤中的变形虫、浮游生物、白蚁、熊蜂、大型陆地食草动物、鸟类、灵长动物、原住民在觅食时的路线也有类似的规律，<strong>莱维飞行似乎是生物在资源稀缺的环境中生存的共同法则。</strong></p>
+<figure data-type="image" tabindex="8"><img src="https://i.loli.net/2021/07/25/ou94XwV8FtWH36T.jpg" alt="图片" loading="lazy"></figure>
+<center>黑眉信天翁 (Black-browed Albatross)的莱维飞行模式。图片来源：(DOI)1 0.1073/pnas.1121201109</center>
+<br>
+实际上，对于浪迹天涯的动物来说，找到下一顿饭靠的不仅靠运气，还要靠高等数学。在对猎物的分布情况几乎一无所知的情况下，莱维飞行的效率远超布朗运动，这或许就是它们在碰运气的时候都会转入莱维飞行模式的原因。
+<p>因此，后来生物学家们提出了<strong>莱维飞行觅食假说</strong>（Lévy flight foraging hypothesis），用来概括动物们听天由命时的风骚走位。</p>
+<p>不仅是野生动物，许多自然现象都有莱维飞行的特征。</p>
+<p>比如，自来水龙头滴水时，两滴水滴之间的时差属于莱维飞行；健康心脏两次跳动的间隙，甚至连股票市场的走势都是莱维飞行。<br>
+<img src="https://i.loli.net/2021/07/25/czIfxFNj1KP83LZ.gif" alt="图片" loading="lazy"></p>
+<center>水龙头滴水时，两滴水之间的时差属于莱维飞行。</center>
+<br>
+比如，下面这张图是西班牙的某个股票价格以及西班牙股指之间的关系——
+<figure data-type="image" tabindex="9"><img src="https://i.loli.net/2021/07/25/jnhWaGdo8iUXzCK.png" alt="图片" loading="lazy"></figure>
+<p>注意到莱维飞行在以捉摸不定著称的股票市场的应用空间后，金融学家们就开始用莱维飞行对金融市场进行研究。</p>
+<p>莱维飞行甚至被用于研究流行病的爆发。</p>
+<p>在1997年，程序员 Hank Eskin 因为想知道钱都去哪儿了，建造了一个叫做wheresgeorge.com 的网站。<br>
+<img src="https://i.loli.net/2021/07/25/coypUYQI8DgFBEd.jpg" alt="图片" loading="lazy"></p>
+<center>将纸币上的序列号，以及当地邮政编码输入上述网站，就可以追踪纸币的运动轨迹。一些爱好者甚至制作了这个网站的图章，敲在纸币上（红色），鼓励大家使用这个网站。</center>
+<br>
+用户在网站上输入当地的邮政编码、纸币序列号等信息，就可以追踪手上那张美元的生活史。
+<p>Eskin 做这个网站只是为了好玩，但是后来的德国柏林洪堡大学的物理学家Dirk Brockmann 和同事在研究传染病的时候，注意到了这个网站。他们认为传染病的传播路线和纸币的类似，于是调用了这个网站的数据进行分析。</p>
+<p>在分析了46万张纸币的轨迹后他们证实了自己的猜测：传染病的传播和纸币的传播一样，符合莱维飞行的特征。他们把这项研究发表在了2006年的 <em>Nature</em> 上。</p>
+<p>Brockmann 的这个发现和当时的主流流行病学理论相悖（主流流行病学理论认为，所有人的感染概率是相同的），但是莱维飞行却能比传统理论更好地预测疾病（比如SARS）的传播，因此现在许多流行病模型都在应用莱维飞行。<br>
+<img src="https://i.loli.net/2021/07/25/SdhjKiMECwLPOzQ.jpg" alt="图片" loading="lazy"></p>
+<p>最后，别以为人类行为能逃脱莱维飞行的支配。人类在旅游和购物时的轨迹也属于莱维飞行。没想到血拼的剁手党和乱飞的苍蝇是一样一样的吧。<br>
+<img src="https://i.loli.net/2021/07/25/VN9YIP6kHcs81Wt.jpg" alt="图片" loading="lazy"></p>
+<p><strong>懂了，捡币要做<em>布朗运动</em>，撒币要做<em>莱维飞行</em>。</strong> 😇🤔🤣</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我那么喜欢你,你喜欢我一下会死啊?]]></title>
         <id>https://aeiou.space/post/wo-na-me-xi-huan-ni-ni-xi-huan-wo-yi-xia-hui-si-a/</id>
