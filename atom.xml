@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aeiou.space</id>
     <title>AEIOU</title>
-    <updated>2021-07-25T10:30:33.757Z</updated>
+    <updated>2021-07-25T12:57:55.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aeiou.space"/>
     <link rel="self" href="https://aeiou.space/atom.xml"/>
@@ -36,7 +36,8 @@
 <p>而这种数学原理，就叫做<strong>莱维飞行</strong>（Lévy flight）。莱维飞行的路线图是这样的——</p>
 <figure data-type="image" tabindex="2"><img src="https://i.loli.net/2021/07/25/BzkoWfUj4v9g6Zr.png" alt="图片" loading="lazy"></figure>
 <center>图片来源：wikipedia</center>
-<p>莱维飞行是一种分形，也就是说不管放大多少倍，看起来还和原来的图案类似的图形。更重要的是，莱维飞行属于随机游走，也就是说它的轨迹并不能被准确预测，就和苍蝇的步伐一样鬼魅。</p>
+<br>
+莱维飞行是一种分形，也就是说不管放大多少倍，看起来还和原来的图案类似的图形。更重要的是，莱维飞行属于随机游走，也就是说它的轨迹并不能被准确预测，就和苍蝇的步伐一样鬼魅。
 <p>很显然，莱维飞行可以帮助苍蝇躲避掠食者还有想要敲扁它们小头的人类。2008年，东京大学的生物学家 Masakazu Shimada 的团队发现，家蝇（Musca domestica）的飞行线路就属于莱维飞行。</p>
 <p>不仅是家蝇，家里常见的果蝇也是莱维飞行家。比如，黑腹果蝇（Drosophila melanogaster）飞行的时候常常是直线飞行夹杂飞速90度大转弯。它们的飞行轨迹就是妥妥的莱维飞行图——</p>
 <figure data-type="image" tabindex="3"><img src="https://i.loli.net/2021/07/25/wp9NtXiZW5fMcTJ.jpg" alt="图片" loading="lazy"></figure>
@@ -45,13 +46,15 @@
 咱们在中学时学过，一些微小的粒子会有布朗运动。
 <figure data-type="image" tabindex="4"><img src="https://i.loli.net/2021/07/25/vUGHFYP3EVzyLai.gif" alt="图片" loading="lazy"></figure>
 <center>布朗运动 图片来源：wikipedia</center>
-<p>虽然布朗运动也属于随机游走，不过，莱维飞行和布朗运动不同。</p>
+<br>
+虽然布朗运动也属于随机游走，不过，莱维飞行和布朗运动不同。
 <p>布朗运动有个特点，那就是每步的步长集中在一个区域内，画成图就是钟形曲线——</p>
 <figure data-type="image" tabindex="5"><img src="https://i.loli.net/2021/07/25/JNnECP6rfX4wV5o.jpg" alt="图片" loading="lazy"></figure>
 <p>莱维飞行就不是这样了。大家应该在中学学过幂函数吧。莱维飞行图中，每步行走的距离就符合幂定律。也就是说，运动中大多数的步子很短，但有少部分步子很长。</p>
 <figure data-type="image" tabindex="6"><img src="https://i.loli.net/2021/07/25/zw3ah6LfJSuY4F1.jpg" alt="图片" loading="lazy"></figure>
 <center>莱维飞行的步长是幂函数</center>
-<p>你可能想问，哦，莱维飞行和布朗运动有差别，可这有什么用呢？</p>
+<br>
+你可能想问，哦，莱维飞行和布朗运动有差别，可这有什么用呢？
 <p>莱维飞行和布朗运动的步长的不同性质，就直接导致了莱维飞行比布朗运动更有效率。走了相同的步数或路程的情况下，莱维飞行位移比布朗运动要大得多，能探索更大的空间。</p>
 <figure data-type="image" tabindex="7"><img src="https://i.loli.net/2021/07/25/TJeFHgLKV3tdzxG.jpg" alt="图片" loading="lazy"></figure>
 <center>布朗运动（左）和莱维飞行（右）的效率对比。显然，莱维飞行用更少的距离和步数覆盖了更大的面积，这对于探索未知而言很有用。图片来源：(DOI)10.1038/nature04292</center>
