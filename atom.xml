@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aeiou.space</id>
     <title>AEIOU</title>
-    <updated>2021-07-28T07:04:20.982Z</updated>
+    <updated>2021-07-28T07:06:28.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aeiou.space"/>
     <link rel="self" href="https://aeiou.space/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://aeiou.space/post/man-mu-xing-he-jie-shi-ni/">
         </link>
         <updated>2021-07-26T08:22:56.000Z</updated>
-        <content type="html"><![CDATA[<p><audio style="clear:both;display:block;margin:auto;" src="https://cdn.jsdelivr.net/gh/onepluskiller/Musics/满目星河皆是你.mp3" controls autoplay></audio></p>
+        <content type="html"><![CDATA[<p><audio style="clear:both;display:block;margin:auto;" src="https://cdn.jsdelivr.net/gh/onepluskiller/Musics/满目星河皆是你.mp3" controls autoplay controlsList="nodownload" oncontextmenu="return false"></audio></p>
 <p>荷尔蒙决定一见钟情,多巴胺决定天长地久,肾上腺决定出不出手。</p>
 <hr />
 <p>我的院子里有四万万朵玫瑰花<br>
@@ -149,7 +149,7 @@
         <link href="https://aeiou.space/post/wo-na-me-xi-huan-ni-ni-xi-huan-wo-yi-xia-hui-si-a/">
         </link>
         <updated>2021-07-24T10:25:47.000Z</updated>
-        <content type="html"><![CDATA[<p><audio style="clear:both;display:block;margin:auto;max-width: 100%;" controls loop preload="meta" src="https://cdn.jsdelivr.net/gh/onepluskiller/Musics/We'll-Meet-Again-(Instrumental).mp3"></audio></p>
+        <content type="html"><![CDATA[<p><audio style="clear:both;display:block;margin:auto;max-width: 100%;" controls loop preload="meta" controlsList="nodownload" oncontextmenu="return false" src="https://cdn.jsdelivr.net/gh/onepluskiller/Musics/We'll-Meet-Again-(Instrumental).mp3"></audio></p>
 <p><video style="clear:both;display:block;margin:auto;max-width: 100%;" src="https://cdn.jsdelivr.net/gh/onepluskiller/Movies/大话西游.mp4" autoplay loop muted></video><br>
 曾经有一份真诚的爱情放在我面前，我没有珍惜，等我失去的时候我才后悔莫及，人世间最痛苦的事莫过于此。 如果上天能够给我一个再来一次的机会，我会对那个女孩子说三个字：我爱你。 如果非要在这份爱上加上一个期限，我希望是一万年。  --<em>出自电影《大话西游》</em></p>
 <hr/>
