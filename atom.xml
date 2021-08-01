@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aeiou.space</id>
     <title>AEIOU</title>
-    <updated>2021-07-28T07:27:18.461Z</updated>
+    <updated>2021-08-01T02:08:33.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aeiou.space"/>
     <link rel="self" href="https://aeiou.space/atom.xml"/>
@@ -10,6 +10,134 @@
     <logo>https://aeiou.space/images/avatar.png</logo>
     <icon>https://aeiou.space/favicon.ico</icon>
     <rights>All rights reserved 2021, AEIOU</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello August]]></title>
+        <id>https://aeiou.space/post/hello-august/</id>
+        <link href="https://aeiou.space/post/hello-august/">
+        </link>
+        <updated>2021-08-01T02:10:30.000Z</updated>
+        <content type="html"><![CDATA[<br>
+<blockquote></blockquote>
+<br>
+<p><strong><center>八月，愿一切美好都如约而至。</strong></p>
+<br>
+<hr>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/08/01/cKt23dZSXRQWxDU.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机中的'Hello August']]></title>
+        <id>https://aeiou.space/post/ji-suan-ji-zhong-de-hello-august/</id>
+        <link href="https://aeiou.space/post/ji-suan-ji-zhong-de-hello-august/">
+        </link>
+        <updated>2021-08-01T02:10:30.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="center各大编程语言是如何实现-hello-august-的打印center"><center>各大编程语言是如何实现 &quot;Hello August&quot; 的打印!</center></h2>
+<p>C</p>
+<pre><code class="language-c">#include &lt;stdio.h&gt;
+int main() {
+    printf(&quot;Hello August!&quot;);
+    return 0;
+}
+</code></pre>
+<hr>
+<p>C++</p>
+<pre><code class="language-c++">#include&lt;iostream&gt;
+int main() {
+    std::cout&lt;&lt;&quot;Hello August&quot;&lt;&lt;std::endl;
+    return 0;
+}
+</code></pre>
+<hr>
+<p>C#</p>
+<pre><code class="language-c#">namespace HelloAugust
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            System.Console.Write(&quot;Hello August&quot;);
+        }
+    }
+}
+</code></pre>
+<hr>
+<p>Objective-C</p>
+<pre><code class="language-objective-c">#import &lt;Foundation/Foundation.h&gt;
+int main()
+{
+     NSLog(@&quot;Hello August!&quot;);
+}
+</code></pre>
+<hr>
+<p>Go</p>
+<pre><code class="language-go">package main
+
+import &quot;fmt&quot;
+
+func main() {
+	fmt.Println(&quot;Hello August&quot;)
+}
+</code></pre>
+<hr>
+<p>Python</p>
+<pre><code class="language-py">print(&quot;Hello August&quot;)
+</code></pre>
+<hr>
+<p>JavaScript</p>
+<pre><code class="language-javas">alert(&quot;Hello August&quot;)
+
+or
+
+document.write(&quot;Hello August&quot;)
+</code></pre>
+<hr>
+<p>PHP</p>
+<pre><code class="language-php">&lt;?php
+    echo 'Hello August';
+?&gt;
+</code></pre>
+<hr>
+<p>Swift</p>
+<pre><code class="language-swift">print(&quot;Hello August&quot;)
+</code></pre>
+<hr>
+<p>Ruby</p>
+<pre><code class="language-ruby">def hello()
+    return &quot;Hello August&quot;
+end
+</code></pre>
+<hr>
+<p>Rust</p>
+<pre><code class="language-rust">fn main() {
+    println!(&quot;Hello August&quot;);
+}
+</code></pre>
+<hr>
+<p>Java</p>
+<pre><code class="language-java">public class HelloAugust
+{
+    public static void main(String[] args)
+    {
+        System.out.println(&quot;Hello August&quot;);
+    }
+}
+</code></pre>
+<hr>
+<p>VB</p>
+<pre><code class="language-vb">Module MainFrm
+    Sub Main()
+        System.Console.WriteLine(&quot;Hello August!&quot;)
+    End Sub
+End Module
+</code></pre>
+<hr>
+<p>AppleScript</p>
+<pre><code class="language-AppleScript">display dialog &quot;hello,world!&quot;
+</code></pre>
+<hr>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/07/31/b3R6opJAzmjEZy8.png" alt="code" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[满目星河不及你]]></title>
         <id>https://aeiou.space/post/man-mu-xing-he-jie-shi-ni/</id>
