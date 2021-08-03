@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aeiou.space</id>
     <title>AEIOU</title>
-    <updated>2021-08-01T02:29:52.530Z</updated>
+    <updated>2021-08-03T09:40:35.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aeiou.space"/>
     <link rel="self" href="https://aeiou.space/atom.xml"/>
@@ -17,9 +17,10 @@
         </link>
         <updated>2021-08-01T02:10:30.000Z</updated>
         <content type="html"><![CDATA[<br>
-<blockquote></blockquote>
 <br>
+<blockquote>
 <p><strong><center>八月，愿一切美好都如约而至。</strong></p>
+</blockquote>
 <br>
 <hr>
 <figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/08/01/cKt23dZSXRQWxDU.jpg" alt="" loading="lazy"></figure>
